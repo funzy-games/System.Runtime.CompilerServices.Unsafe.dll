@@ -1,0 +1,12 @@
+{
+	"name": "funzygames.systemruntimecompilerservicesunsafedll",
+	"author": {
+		"name": "FunzyGames"
+	},
+	"displayName": "System.Runtime.CompilerServices.Unsafe.dll",
+	"unity": "2020.3",
+	"description": "Funzy Games SystemRuntimeCompilerServicesUnsafeDLL (4.0.4.1) package",
+	"version": "4.0.4",
+	"dependencies": {},
+	"scopedRegistries": []
+}
